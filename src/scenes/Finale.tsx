@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Heart, RotateCcw, Sparkles } from "lucide-react";
+import { RotateCcw, Sparkles } from "lucide-react";
 import { recipientName } from "../app/sceneConfig";
 
 export function Finale({ onReplay }: { onReplay: () => void }) {
